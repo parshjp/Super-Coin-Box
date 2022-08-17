@@ -1,4 +1,4 @@
-# Semi-Super-Crate-Box
+# Super-Coin-Box
 HTML game using Phaser.io JS framework
 
 TO-DO:
